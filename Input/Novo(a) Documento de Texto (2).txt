@@ -1,0 +1,3 @@
+A comida do refeitório está piorando a cada dia. R$ 15 por um prato de hambúrguer e batatas fritas não parece subsidiado.
+
+Neste caso foi retornado como uma opinião negativa, com base na avaliação do texto, 
